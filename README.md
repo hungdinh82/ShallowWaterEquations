@@ -1,4 +1,4 @@
-In this project, the author simulates waves using MATLAB [1] and the shallow water equations (SWEs) in
+In this project,I simulates waves using MATLAB [1] and the shallow water equations (SWEs) in
 a variety of environments, from droplets in a bathtub to tsunamis in the Pacific. The SWEs are used to
 model waves, especially in water, where the wavelength is significantly larger than the depth of the
 medium. The SWEs are especially useful for modeling tsunamis. While one might not normally consider
